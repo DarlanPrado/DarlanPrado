@@ -8,7 +8,9 @@
    <p>Me interessei pela progamação por ver ela como uma ferramenta, que permite fazer de praticamente tudo.</p>
    <p>O pontapé para que eu iniciasse na progamação, foi quando passei em um processo avaliativo, e acabei sendo selecionado para participar do Bootcamp da <a href="https://agapys.com/" target="_blank">Agapys </a> onde aprendi a linguagem Csharp além de começar a entender de lógica de progamação</p>
 <p>Após isso comecei a estudar de forma autodidata, aprendendo JavaScrip, CSS, Html, etc.Tendo conhecimento em Back e Front.</p>
-##
+
+ ##
+
 <div class="contato">
   <h4>Me contate por: <h4>
   
