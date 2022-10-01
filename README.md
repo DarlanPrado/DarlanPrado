@@ -14,7 +14,7 @@
 <div class="contato">
   <h4>Me contate por: <h4>
   
-  <a href="mailto:darlandoprado2014@hmail.com" target="_blank"><img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png"></a>
+  <a href="mailto:darlandoprado2014@gmail.com" target="_blank"><img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png"></a>
   <a href="https://www.instagram.com/darlanbatista_/" target="blank"><img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
    <a href="https://api.whatsapp.com/send/?phone=%2B5547991131817&text&type=phone_number&app_absent=0" target="blank"><img height="37" width="37" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a>
 </div>
