@@ -1,5 +1,4 @@
 <h1> Darlan Prado </h1>
-
 <h2><strong>olá, meu nome é Darlan, tenho 17 anos e sou um progamador junior</strong></h2>
 
 <div class:"sobreMim">
@@ -19,24 +18,17 @@
    <a href="https://api.whatsapp.com/send/?phone=%2B5547991131817&text&type=phone_number&app_absent=0" target="blank"><img height="37" width="37" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a>
 </div>
 
-
-
-
-
-<h2>Meus status:</h2>
 <div class="status">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <p></p>
-  <ul>
-    <li>📚 Atualmente estudando: JavaScript.</li>
-    <li>💼 Trabalho atual: Buscando Trabalho.</li>
-    <li>💻 Projeto em Desenvolvimento: N/A.</li>
-  </ul>
-
-
+   <h2>Meus status:</h2>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <p></p>
+     <ul>
+       <li>📚 Atualmente estudando: JavaScript.</li>
+       <li>💼 Trabalho atual: Buscando Trabalho.</li>
+       <li>💻 Projeto em Desenvolvimento: N/A.</li>
+     </ul>
 </div>
   
-
 <h2>Atualmente sei: </h2>
 <div class="icon">
         <img heigth="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -44,7 +36,3 @@
         <img  heigth="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
         <img  heigth="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
 </div>
-    
-    
-    
-
