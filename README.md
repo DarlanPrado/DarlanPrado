@@ -1,5 +1,5 @@
 <h1> Darlan Prado </h1>
-<h2><strong>olá, meu nome é Darlan, tenho 17 anos e sou um progamador junior</strong></h2>
+<h2><strong>olá, meu nome é Darlan, tenho 18 anos e sou um progamador junior BackEnd</strong></h2>
 
 <div class:"sobreMim">
    <h3> sobre mim:</h3>
@@ -23,9 +23,9 @@
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
      <p></p>
      <ul>
-       <li>📚 Atualmente estudando: JavaScript.</li>
-       <li>💼 Trabalho atual: Buscando Trabalho.</li>
-       <li>💻 Projeto em Desenvolvimento: N/A.</li>
+       <li>📚 Atualmente estudando: Python.</li>
+       <li>💼 Trabalho atual: Access Contact Center.</li>
+       <li>💻 Projeto em Desenvolvimento: Automaçao WhatsApp (Python).</li>
      </ul>
 </div>
   
