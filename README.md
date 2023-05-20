@@ -23,9 +23,9 @@
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
      <p></p>
      <ul>
-       <li>📚 Atualmente estudando: Python.</li>
+       <li>📚 Atualmente estudando: PHP.</li>
        <li>💼 Trabalho atual: Access Contact Center.</li>
-       <li>💻 Projeto em Desenvolvimento: Automaçao WhatsApp (Python).</li>
+       <li>💻 Projeto em Desenvolvimento: Auth bashtechnology (PHP).</li>
      </ul>
 </div>
   
