@@ -1,4 +1,4 @@
-<h1 style="color: red"> Darlan Prado </h1>
+<h1> Darlan Prado </h1>
 <h2><strong>olá, meu nome é Darlan, tenho 18 anos e sou um progamador junior BackEnd</strong></h2>
 
 <div class="sobreMim">
