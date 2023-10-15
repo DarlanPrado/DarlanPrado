@@ -1,7 +1,7 @@
 <h1> Darlan Prado </h1>
 <h2><strong>olá, meu nome é Darlan, tenho 18 anos e sou um progamador junior BackEnd</strong></h2>
 
-<div class:"sobreMim">
+<div class="sobreMim">
    <h3> sobre mim:</h3>
 
    <p>Me interessei pela progamação por ver ela como uma ferramenta, que permite fazer de praticamente tudo.</p>
