@@ -1,6 +1,5 @@
 <h1><strong>Darlan José Batista do Prado<strong/></h1>
 <h3>Desenvolvedor Web FullStack</h3>
-<br/>
 <div class="sobreMim">
    <h3> sobre mim:</h3>
    <span>Desenvolvedor fullstack, foco no desenvolvimento frontend com Nuxt.js e Vue.js</span>
