@@ -29,16 +29,29 @@
 
 <a href="https://darlanprado.vercel.app" target="_blank">
    <p align="center">
-      <img aling="center" width="200px" src="https://darlanprado.vercel.app/_vercel/image?url=%2Favatar.png&w=1536&q=100"/>
+      <img aling="center" width="300px" src="https://darlanprado.vercel.app/_vercel/image?url=%2Favatar.png&w=1536&q=100"/>
    </p>
    <p align="center"><strong>Darlan José Batista do Prado</strong></p>
 </a>
 
+<a href="mailto:darlanprado.contact@gmail.com" target="_blank"><img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png"></a>
+
+# Sobre mim:
+
+<ul>
+   <li>👩🏻‍💻 Desenvolvedor fullstack.</li>
+   <li>📚 Em busca de se tornar um arquiteto de software.</li>
+   <li>💚 Entusiasta em NuxtJs.</li>
+   <li>👨🏼‍🎓 Cusarndo Analize e desenvolvimento de sistemas.</li>
+</ul>
+
 # Estatisticas:
 
-<img width="100%"  src="https://github-readme-stats.vercel.app/api?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <p align="center">
-     <img width="75%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img width="75%"  src="https://github-readme-stats.vercel.app/api?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</p>
+<p align="center">
+     <img width="50%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
 
 <!-- [![Meu portifólio](https://darlanprado.vercel.app/_vercel/image?url=%2Favatar.png&w=1536&q=100 "Meu portifólio")](https://darlanprado.vercel.app) -->
