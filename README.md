@@ -20,4 +20,25 @@
      <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
      <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> -->
-<iframe src="https://darlanprado.vercel.app/" style="width: 100%; height: 80vh"></iframe>
+<!-- <iframe src="https://darlanprado.vercel.app/" style="width: 100%; height: 80vh"></iframe> -->
+
+<!-- # Darlan José Batista do Prado
+[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ) -->
+
+# Olá, Bem vindo ao meu perfil
+<a src="https://darlanprado.vercel.app">
+   <div style="display: flex">
+      <img width="150" src="https://darlanprado.vercel.app/_vercel/image?url=%2Favatar.png&w=1536&q=100" />
+      <div style="display: flex; align-items: center;  justify-content: center; width: 100%">
+         <h1>Darlan Prado</h1>
+      </div>
+   </div>
+</a>
+<div style="display: flex; align-items: center;  justify-content: center; width: 100%; margin-top: 25px; margin-bottom: 15px;">
+   <img alingn="center" src="https://profile-counter.glitch.me/DarlanPrado/count.svg"/>
+</div>
+
+
+
+
+  
