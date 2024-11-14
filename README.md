@@ -27,10 +27,19 @@
 
 # Olá, Bem vindo ao meu perfil
 
+<a href="https://darlanprado.vercel.app" target="_blank">
+   <p align="center">
+      <img aling="center" width="200px" src="https://darlanprado.vercel.app/_vercel/image?url=%2Favatar.png&w=1536&q=100"/>
+   </p>
+   <p align="center"><strong>Darlan José Batista do Prado</strong></p>
+</a>
+
+# Estatisticas:
+
+<img width="100%"  src="https://github-readme-stats.vercel.app/api?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <p align="center">
-   <img aling="center" width="200px" src="https://darlanprado.vercel.app/_vercel/image?url=%2Favatar.png&w=1536&q=100"/>
+     <img width="75%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanPrado&_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
-<p align="center"><a href="https://darlanprado.vercel.app"><strong>Darlan José Batista do Prado</strong></a></p>
 
 <!-- [![Meu portifólio](https://darlanprado.vercel.app/_vercel/image?url=%2Favatar.png&w=1536&q=100 "Meu portifólio")](https://darlanprado.vercel.app) -->
 
