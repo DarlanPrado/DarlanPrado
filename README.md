@@ -41,7 +41,7 @@
 <ul>
    <li>👩🏻‍💻 Desenvolvedor fullstack.</li>
    <li>📚 Em busca de se tornar um arquiteto de software.</li>
-   <li>💚 Entusiasta em NuxtJs.</li>
+   <li>💚 Entusiasta em <a href="https://nuxt.com/" target="_blank" >NuxtJs</a>.</li>
    <li>👨🏼‍🎓 Cusarndo Analize e desenvolvimento de sistemas.</li>
 </ul>
 
