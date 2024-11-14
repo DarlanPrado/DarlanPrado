@@ -27,9 +27,12 @@
 
 # Olá, Bem vindo ao meu perfil
 
-[![Meu portifólio](https://darlanprado.vercel.app/_vercel/image?url=%2Favatar.png&w=1536&q=100 "Meu portifólio")](https://darlanprado.vercel.app)
+<p align="center">
+   <img aling="center" width="200px" src="https://darlanprado.vercel.app/_vercel/image?url=%2Favatar.png&w=1536&q=100"/>
+</p>
+<p align="center"><a href="https://darlanprado.vercel.app"><strong>Darlan José Batista do Prado</strong></a></p>
 
-<h3  align="center">Darlan Prado</h3>
+<!-- [![Meu portifólio](https://darlanprado.vercel.app/_vercel/image?url=%2Favatar.png&w=1536&q=100 "Meu portifólio")](https://darlanprado.vercel.app) -->
 
 
 
