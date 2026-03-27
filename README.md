@@ -6,7 +6,7 @@
 
 <a href="mailto:darlanprado.contact@gmail.com" target="_blank"><img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png"></a>
 
-# Sobre mim:
+# About me
 
 <ul>
    <li>👩🏻‍💻 Fullstack Developer</li>
