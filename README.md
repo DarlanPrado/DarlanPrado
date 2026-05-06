@@ -13,5 +13,5 @@
    <li>💚 <a href="https://nuxt.com/" target="_blank" >Nuxt</a> enthusiast.</li>
 </ul>
 
-
+[![DarlanPrado Nuxter profile](https://nuxters.nuxt.com/_og/r/DarlanPrado.png)](https://nuxters.nuxt.com/DarlanPrado)
   
